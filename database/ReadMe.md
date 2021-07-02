@@ -31,7 +31,7 @@
 ├── GORM.md
 ```
 ## B1. 
-Tạo database và kết nối database
+Tạo database 
 ## B2.
 cấu hình định dạng YAML [dev.yml](dev.yml)
 ```yaml
